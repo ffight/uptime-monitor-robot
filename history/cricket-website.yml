@@ -1,7 +1,7 @@
 url: https://www.cricket.com
-status: up
-code: 200
-responseTime: 1604
-lastUpdated: 2024-03-01T05:27:44.642Z
+status: down
+code: 502
+responseTime: 163
+lastUpdated: 2024-03-01T17:21:56.469Z
 startTime: 2024-02-08T09:14:25.696Z
 generator: Upptime <https://github.com/upptime/upptime>
